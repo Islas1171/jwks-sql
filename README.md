@@ -17,8 +17,15 @@ keys for verification.
 # Requirements
 - Python 3.12
 - SQLite (included with Python/PyCharm)
-
 Install required libraries using `pip`:
 pip install cryptography pyjwt
 
 Run the main file then run the http commands to get the correct output.
+
+![post](https://github.com/user-attachments/assets/40d3b9e9-640a-45b3-97a2-fc26cae9abd6)
+![htttp](https://github.com/user-attachments/assets/77069b6a-2bb0-4929-9e4a-facd061908c2)
+![response](https://github.com/user-attachments/assets/7bc0b7dd-59e9-4814-8654-fb090137aefe)
+![getjwks](https://github.com/user-attachments/assets/0bd0920a-5ddb-4083-9324-227a89e186f2)
+
+
+
