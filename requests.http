@@ -1,0 +1,4 @@
+POST http://localhost:8080/auth
+//POST http://localhost:8080/auth?expired=true
+//GET http://localhost:8080/.well-known/jwks.json
+//http to test the programs 
