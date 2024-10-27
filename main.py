@@ -9,8 +9,8 @@ import jwt
 import sqlite3
 import os
 #used the outline from the zip codes provided by the professor from project 1
-hostName = "localhost" #the host name
-serverPort = 8080 #sever
+hostName = "localhost" 
+serverPort = 8080 
 DATABASE_FILE = "totally_not_my_privateKeys.db" #including the database
 # Initialize the SQLite database
 def initialize_database():
