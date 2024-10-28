@@ -28,4 +28,11 @@ Run the main file then run the http commands to get the correct output.
 ![getjwks](https://github.com/user-attachments/assets/0bd0920a-5ddb-4083-9324-227a89e186f2)
 
 
+# Coverage 
+![image](https://github.com/user-attachments/assets/b24fa98b-a6c7-460b-a13a-45a7b0cefb40)
+
+
+# Gradebot
+
+![image](https://github.com/user-attachments/assets/a1cc261c-ae50-48c3-b98d-95f1b45a567b)
 
